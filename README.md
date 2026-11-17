@@ -93,7 +93,7 @@ Outras situações para testar: casa com 1 pessoa, banhos de 5 minutos (alternat
 ├── README.md
 ├── referencias.md
 ├── codigo/
-│   └── assistente_energia.py
+│   └── Codigos Desenvolvidos.py
 ├── dados/
 │   └── dados_premissas.md
 ├── analise/
