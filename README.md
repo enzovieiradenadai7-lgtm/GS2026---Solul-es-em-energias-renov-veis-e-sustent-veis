@@ -59,7 +59,7 @@ git clone COLE_AQUI_O_LINK_DO_REPOSITORIO
 cd NOME_DA_PASTA
 
 # 2. Executar
-python codigo/assistente_energia.py
+Codigos Desenvolvidos
 ```
 
 No Windows, se `python` não funcionar, use `py codigo/assistente_energia.py`.
