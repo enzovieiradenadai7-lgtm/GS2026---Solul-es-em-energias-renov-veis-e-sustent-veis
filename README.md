@@ -62,7 +62,7 @@ cd NOME_DA_PASTA
 Codigos Desenvolvidos
 ```
 
-No Windows, se `python` não funcionar, use `py codigo/assistente_energia.py`.
+No Windows, se `python` não funcionar, use `py Codigos Desenvolvidos.py`.
 
 ---
 
