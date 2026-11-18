@@ -55,7 +55,7 @@ O módulo funciona por um menu no terminal:
 
 ```bash
 # 1. Clonar o repositório
-git clone COLE_AQUI_O_LINK_DO_REPOSITORIO
+git clone https://github.com/enzovieiradenadai7-lgtm/GS2026---Solul-es-em-energias-renov-veis-e-sustent-veis.git
 cd NOME_DA_PASTA
 
 # 2. Executar
